@@ -51,6 +51,7 @@ Geogo Task Management is a task management application built using React, Redux,
    Open a new terminal and run:
 
    ```sh
+   cd Geogo-Task-Management
    npm run serve
    ```
 
